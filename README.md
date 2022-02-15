@@ -1,7 +1,7 @@
 ### Hey, I'm Gabriel Esnack 👋
 
 
-####  About me
+####  About me 🔎
 - 🔭 I’m currently working on [Captalys](https://www.captalys.com.br/)
 - 🏠 I’m currently living in Sorocaba, São Paulo
 - ⚡ Fun fact: I Love french fries so much. I'm a really curiosity and enthusiast about technology, oh if you are doing researches, do it eating 🍟 its so better.
