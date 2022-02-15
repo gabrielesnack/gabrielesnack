@@ -9,7 +9,7 @@
 #### Development skills 🔥
 
 - 🎯 Currently I'm working with React.js and Graphql (Relay)
-- ♣️ **Main Technologies**: React.js, Vue.js, Nuxt.js, Next.js, Angular 9 e 10, Nodejs, Cypress, Jest, Typescript, Javascript, HTML/CSS, Sass, Styled-Components.   
+- ♣️ **Main Technologies**: React.js, Vue.js, Nuxt.js, Next.js, Angular 9 e 10, Node.js, Cypress, Jest, Typescript, Javascript, HTML/CSS, Sass, Styled-Components.   
 - ♥️ **Tools**: Git, Datadog, GTM, GCP, Jenkins, Webpack. 
 - ♠️ **Familiar**: PHP Laravel, MySql, SQL Server, C#.
 - ♦️ **Enthusiast**:  C#, Unity, Godot, CryptoCurrencies
