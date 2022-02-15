@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hey, I'm Gabriel Esnack 👋
 
-<!--
-**gabrielesnack/gabrielesnack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+####  About me
+- 🔭 I’m currently working on [Captalys](https://www.captalys.com.br/)
+- 🏠 I’m currently living in Sorocaba, São Paulo
+- ⚡ Fun fact: I Love french fries so much. I'm a really curiosity and enthusiast about technology, oh if you are doing researches, do it eating 🍟 its so better.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Development skills 🔥
+
+- 🎯 Currently I'm working with React.js and Graphql (Relay)
+- ♣️ **Main Technologies**: React.js, Vue.js, Nuxt.js, Next.js, Angular 9 e 10, Nodejs, Cypress, Jest, Typescript, Javascript, HTML/CSS, Sass, Styled-Components.   
+- ♥️ **Tools**: Git, Datadog, GTM, GCP, Jenkins, Webpack. 
+- ♠️ **Familiar**: PHP Laravel, MySql, SQL Server, C#.
+- ♦️ **Enthusiast**:  C#, Unity, Godot, CryptoCurrencies
+
+#### How to talk with me?
+
+
+📞 +55 15 996546910
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-esnack/)
